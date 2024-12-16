@@ -1,9 +1,0 @@
-pipeline = 1
-height = 3068
-width = 4080
-diameter = 70
-transpose = true
-ltop = [38.25, 37.5]    # [x, y]
-rtop = [4003, 74.75]
-lbot = [36.25, 2996.75]
-rbot = [4003, 2996.75]
