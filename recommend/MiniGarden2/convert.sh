@@ -1,1 +1,1 @@
---psizeInflate 2.598 --viewShiftRange 0.1 --patternSize 0.325
+--minPsize 0.1 --psizeInflate 2.15 --viewShiftRange 0.1
